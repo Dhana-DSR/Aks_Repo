@@ -1,0 +1,91 @@
+{
+  "SerializedFilePath": "g:\\Docker-Webapp\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "g:\\Docker-Webapp\\WebApplication1.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "WebApplication1",
+  "Documents": [
+    {
+      "FilePath": "g:\\Docker-Webapp\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Docker-Webapp\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Docker-Webapp\\siva1st\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "siva1st\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Docker-Webapp\\siva1st\\Pages\\Index.cshtml",
+      "TargetPath": "siva1st\\Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Docker-Webapp\\siva1st\\Pages\\Error.cshtml",
+      "TargetPath": "siva1st\\Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Docker-Webapp\\siva1st\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "siva1st\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Docker-Webapp\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Docker-Webapp\\siva1st\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "siva1st\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Docker-Webapp\\siva1st\\Pages\\Privacy.cshtml",
+      "TargetPath": "siva1st\\Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Docker-Webapp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Docker-Webapp\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Docker-Webapp\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Docker-Webapp\\siva1st\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "siva1st\\Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Docker-Webapp\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}
